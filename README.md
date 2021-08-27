@@ -1,0 +1,2 @@
+# SkeletonApp
+Ionic/Angular Project
